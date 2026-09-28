@@ -4,10 +4,10 @@ GitHub-konto med diverse repos relatert til et kurs innen programmering og web-t
 
 ## Innhold
 
-* [Oppgaver / Innleveringer](#oppgaver--innleveringer) - Obligatoriske aktiviteter under kurset
+* [Oppgaveløsninger / Innleveringer](#oppgaver--innleveringer) - Obligatoriske aktiviteter under kurset
 * [Notater](#notater) - Forklaringer/eksperimenter rundt undervisningen
 
-## Oppgaver / Innleveringer
+## Oppgaveløsninger / Innleveringer
 
 Obligatoriske aktiviteter under kurset, i omvendt kronologisk rekkefølge.
 
